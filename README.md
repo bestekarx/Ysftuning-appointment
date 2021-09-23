@@ -1,16 +1,9 @@
-# example_flutter
+# Ysftuning
 
-A new Flutter project.
+Flutter mobile project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+https://randevu.ysftuning.com/ site's flutter mobile project.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+My first flutter mobile application project after years of making mobile projects using java and c#. Don't get hung up on code layout and my amateurism for now. :)
